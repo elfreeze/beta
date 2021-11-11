@@ -56,12 +56,12 @@ html {
     padding: 15px 20px;
     font-size: 3.5rem;
   }
-  
-.btn-show-all {
-  border-radius: 5px;
-  height: 30px;
-  font-size: 1.6rem;
-}
+
+  .btn-show-all {
+    border-radius: 5px;
+    height: 30px;
+    font-size: 1.6rem;
+  }
 }
 
 /*----- navigation menu styling -----*/
@@ -132,13 +132,13 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background: #002d62;
+  background: #3457d5;
   height: 60vh;
 }
 
 .text-container > h1 {
-  margin-bottom: 10px;
-  font-size: 3rem;
+  margin-bottom: 30px;
+  font-size: 3.5rem;
   color: #fff;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
@@ -149,10 +149,11 @@ html {
   font-family: 'Open Sans', sans-serif;
   width: 95%;
   color: #fff;
+  margin-bottom: 10px;
 }
 
 .about-link {
-  margin: 10px;
+  margin: 10px auto 20px auto;
   color: #000;
   font-family: 'Open Sans', sans-serif;
   font-size: 2rem;
