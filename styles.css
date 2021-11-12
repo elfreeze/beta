@@ -292,19 +292,26 @@ footer {
   display: flex;
   justify-content: space-between;
   margin: 10px auto;
+  padding: 0 20px;
+  background: ;
 }
 
 .quick-links, .quick-links li a {
   text-decoration: none;
+  text-align: left;
   color: #fff;
   font-size: 1.5rem;
-  margin-right: 20vw;
+  margin: 10px;
+  width: 30vw;
 }
 
 .footer-social-links, .footer-social-links li a {
   text-decoration: none;
+  text-align: left;
   color: #fff;
   font-size: 1.5rem;
+  margin: 10px;
+  width: 30vw;
 }
 
 .copyright-info {
