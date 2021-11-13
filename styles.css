@@ -120,11 +120,11 @@ html {
   align-items: center;
   justify-content: center;
   background: #034694;
-  height: 65vh;
+  height: 60vh;
 }
 
 .text-container > h1 {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
   font-size: 4rem;
   color: #fff;
   text-align: center;
