@@ -374,7 +374,8 @@ footer {
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-align: left;
-  width: 80%;
+  width: 90%;
+  color: #000;
 }
 .about-section > h4 {
   margin: 10px;
