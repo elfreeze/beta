@@ -331,58 +331,47 @@ footer {
 
 /*------ about-section styling ------*/
 .about-section {
-  text-align: center;
-  color: #000;
+  color: #002d62;
+  font-family: 'Open Sans', sans-serif;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: auto;
   width: 100%;
-  margin-top: 40px;
+  margin-top: 10px;
   background: #fff;
-  background-size: cover;
 }
 .img-container2 {
-  height: 50vh;
-  width: auto;
-  margin-top: 5%;
-  margin-bottom: 0;
+  display: flex;
+  justify-content: center;
+  height: 43vh;
+  width: 100%;
+  margin: 0 auto;
 }
 .myImg2 {
   display: block;
-  height: 90%;
-  width: auto;
-  margin-top: ;
-  border: 5px solid #c31432;
-  border-radius: 10%;
-  box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.671);
+  height: 40vh;
+  width: 33%;
 }
 .about-section > h1 {
-  margin-bottom: 10px;
-  font-size: 50px;
-  text-align: center;
-  font-family: 'Birthstone', cursive;
-  text-shadow: 3px 3px 3px #000;
-  background: #333;
-  color: #fff;
-  width: 80%;
-  border-bottom: 3px solid #c31432;
+  font-size: 5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #000;
+  width: 60%;
+  border-bottom: 3px solid #002d62;
 }
 .about-section > h3 {
   font-size: 30px;
-  font-family: 'Birthstone', cursive;
-  text-shadow: 3px 3px 3px #000;
+  font-family: 'Montserrat', sans-serif;
   margin: 10px auto;
-  width: 40%;
-  color: #fff;
-  background: #333;
-  border-bottom: 3px solid #c31432;
+  width: 60%;
+  color: #000;
+  border-bottom: 3px solid #002d62;
 }
 .about-section > p {
   margin: 10px;
   font-size: 20px;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-align: left;
   width: 80%;
