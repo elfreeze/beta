@@ -331,37 +331,38 @@ footer {
 
 /*------ about-section styling ------*/
 .about-section {
-  color: #002d62;
   font-family: 'Open Sans', sans-serif;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
+  height: auto;
   margin-top: 10px;
   background: #fff;
 }
 .img-container2 {
   display: flex;
   justify-content: center;
-  height: 43vh;
+  height: 50vh;
   width: 100%;
   margin: 0 auto;
+  margin-bottom: 5px;
 }
 .myImg2 {
   display: block;
-  height: 40vh;
+  height: auto;
   width: 33%;
 }
-.about-section > h1 {
+.font-container > h1 {
   font-size: 4rem;
   font-family: 'Montserrat', sans-serif;
   color: #000;
   width: 50%;
   border-bottom: 3px solid #002d62;
 }
-.about-section > h3 {
+.font-container > h3 {
   font-size: 30px;
   font-family: 'Montserrat', sans-serif;
   margin: 10px auto;
@@ -369,7 +370,7 @@ footer {
   color: #000;
   border-bottom: 3px solid #002d62;
 }
-.about-section > p {
+.font-container > p {
   margin: 10px;
   font-size: 20px;
   font-family: 'Open Sans', sans-serif;
