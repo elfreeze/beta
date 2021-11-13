@@ -137,19 +137,18 @@ html {
 }
 
 .text-container > h1 {
-  margin-bottom: 30px;
-  font-size: 3.5rem;
+  margin-bottom: 10px;
+  font-size: 4rem;
   color: #fff;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
 
 .text-container > p {
-  font-size: 1.6rem;
+  font-size: 2rem;
   font-family: 'Open Sans', sans-serif;
-  width: 95%;
+  width: 90%;
   color: #fff;
-  margin-bottom: 10px;
 }
 
 .about-link {
