@@ -56,7 +56,7 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 80px;
+  height: 60px;
   width: 100%;
   background: #fff;
 }
@@ -91,6 +91,7 @@ html {
     flex-direction: row;
     justify-content: space-between;
     padding: 0 50px;
+    height: 50px;
   }
   .logo a {
     font-size: 3rem;
@@ -119,7 +120,7 @@ html {
   align-items: center;
   justify-content: center;
   background: #034694;
-  height: 50vh;
+  height: 65vh;
 }
 
 .text-container > h1 {
@@ -166,9 +167,10 @@ html {
   }
   .text-container h1 {
     font-size: 5rem;
+    margin-bottom: 30px;
   }
   .text-container p {
-    font-size: 2rem;
+    font-size: 2.5rem;
     width: 90%;
   }
 
