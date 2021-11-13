@@ -353,7 +353,13 @@ footer {
 .myImg2 {
   display: block;
   height: auto;
-  width: 33%;
+  width: 33.3%;
+}
+.font-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .font-container > h1 {
   font-size: 4rem;
@@ -363,16 +369,16 @@ footer {
   border-bottom: 3px solid #002d62;
 }
 .font-container > h3 {
-  font-size: 30px;
+  font-size: 4rem;
   font-family: 'Montserrat', sans-serif;
   margin: 10px auto;
-  width: 60%;
+  width: 50%;
   color: #000;
   border-bottom: 3px solid #002d62;
 }
 .font-container > p {
   margin: 10px;
-  font-size: 20px;
+  font-size: 2rem;
   font-family: 'Open Sans', sans-serif;
   font-weight: bold;
   text-align: left;
@@ -388,20 +394,14 @@ footer {
   width: 80%;
 }
 .links {
-  color: orange;
-}
-.home-btn {
-  display: block;
-  border: 3px solid #c31432;
+  color: #002d62;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (min-width: ) {
   .img-container2 {
-    height: 30vh;
-  }
+   }
   .about-section h1 {
-    margin: 0 auto;
-    font-size: 50px;
+
   }
 }
 
