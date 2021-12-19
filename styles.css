@@ -125,24 +125,24 @@ html {
 
 .text-container > h1 {
   margin-bottom: 20px;
-  font-size: 4rem;
+  font-size: 30px;
   color: #fff;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
 }
 
 .text-container > p {
-  font-size: 2rem;
+  font-size: 15px;
   font-family: 'Open Sans', sans-serif;
   width: 90%;
   color: #fff;
 }
 
 .about-link {
-  margin: 10px auto 20px auto;
+  margin: 10px auto;
   color: #000;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2rem;
+  font-size: 16px;
   font-weight: bold;
 }
 
