@@ -195,7 +195,7 @@ html {
     justify-content: space-between;
   }
   .text-container {
-    height: 60vh;
+    height: 80vh;
     width: 60vw;
   }
   .text-container h1 {
@@ -205,7 +205,7 @@ html {
   .text-container p {
     font-size: 20px;
     width: 90%;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
   }
 
   .img-container {
