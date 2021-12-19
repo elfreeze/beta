@@ -68,7 +68,7 @@ html {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 80px;
+  height: 70px;
   width: 100%;
   background: #fff;
 }
@@ -76,6 +76,7 @@ html {
   width: 100%;
   text-align: center;
   margin: 10px;
+  height: 50%;
 }
 .logo a {
   font-family: 'Montserrat', sans-serif;
@@ -91,6 +92,8 @@ html {
   font-size: 3.5rem;
 }
 .nav-links {
+  height: auto;
+  margin: 0 auto 10px auto;
   border-top: 2px solid #000;
 }
 .nav-links a {
